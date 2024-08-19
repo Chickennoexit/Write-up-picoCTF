@@ -1,2 +1,1 @@
-# test
-nothing on there
+Nơi viết lại cách giải các bài trong picoCTF
